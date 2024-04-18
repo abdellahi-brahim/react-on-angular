@@ -2,6 +2,8 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "jsx": "react",
+    "jsxFactory": "React.createElement",
     "outDir": "./dist/out-tsc",
     "strict": true,
     "noImplicitOverride": true,
